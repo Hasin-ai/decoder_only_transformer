@@ -1,7 +1,6 @@
 # ScratchGPT Implementation by an Undergraduate Student
 
-This repository contains my implementation of the **ScratchGPT** project. As an undergraduate student passionate about deep learning and natural language processing, I decided to follow a step-by-step approach to build a GPT-2 style language model from scratch.
-
+This repository contains my implementation of the **ScratchGPT** project. 
 ## About the Project
 
 The goal of this project was to reproduce the GPT-2 (124M parameter) model, learning the architecture and training process by implementing the components myself. This involved building the transformer blocks, attention mechanisms, tokenization, data loading, training loop, and evaluation routines.
