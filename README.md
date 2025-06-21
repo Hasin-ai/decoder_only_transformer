@@ -1,4 +1,4 @@
-# ScratchGPT Implementation by an Undergraduate Student
+# ScratchGPT 
 
 This repository contains my implementation of the **ScratchGPT** project. 
 ## About the Project
